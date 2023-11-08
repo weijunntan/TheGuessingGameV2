@@ -1,0 +1,2 @@
+# TheGuessingGameV2
+Create a simple guessing game using Java, start by defining a random number that the player needs to guess. Use Java's input and output functionality to interact with the player, prompting them to enter their guesses and providing feedback. Employ conditional statements to compare the player's guess with the random number and use loops to allow multiple attempts until the correct guess is made.  
